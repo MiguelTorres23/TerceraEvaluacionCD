@@ -43,6 +43,10 @@ public class Persona {
         return edad;
     }
 
+
+
+    
+
     /**
      * Establece la edad de la persona.
      * @param edad La nueva edad de la persona.
